@@ -6,6 +6,7 @@ var lang string
 var langs map[string]string = map[string]string{
 	"ID": "Halo! Salam kenal",
 	"EN": "Hello there",
+	"ES": "Hola",
 }
 
 func init() {
